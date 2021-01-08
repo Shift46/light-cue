@@ -1,0 +1,20 @@
+{
+  "name": "light-cue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "keywords": [
+    "queue",
+    "messages"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shift46/light-cue.git"
+  },
+  "author": "Maltsev Kirill <kirillmaltsev@inbox.ru>",
+  "bugs": {
+    "url": "https://github.com/Shift46/light-cue/issues"
+  },
+  "homepage": "https://github.com/Shift46/light-cue#readme"
+}
