@@ -21,6 +21,7 @@ const createFileKeeper = filename => ({
     }
 });
 
+//NOTE: Creates queue.json in examples folder
 use(createFileKeeper('queue.json'));
 
 require('./1-basic');
